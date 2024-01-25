@@ -4,5 +4,8 @@ def sum_of_products(list1, list2):
         return 'Error'
 
 if __name__ == '__main__':
-   #REMOVE PASS AND YOUR CODE GOES HERE
     
+   #REMOVE PASS AND YOUR CODE GOES HERE
+    #Read in the series of numbers
+    #Call sum_of_products
+    #print the result
