@@ -7,7 +7,7 @@ def sum_of_products(list1, list2):
 
 
 if __name__ == '__main__':
-    list1 = list(map(int, input()))
-    list2 = list(map(int, input()))
+    list1 = list(map(int, input().split()))
+    list2 = list(map(int, input().split()))
     output = sum_of_products(list1, list2)
     print(output)
